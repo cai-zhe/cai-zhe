@@ -1,0 +1,77 @@
+<div align="center">
+
+<a href="https://github.com/cai-zhe">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=560&lines=cz+%2F%2F+building+quietly;software+%C2%B7+systems+%C2%B7+automation;turning+rough+ideas+into+useful+tools" alt="Animated introduction" />
+</a>
+
+<br />
+
+<samp>BUILDER · CURIOUS BY DEFAULT · SHIPPING WITH INTENT</samp>
+
+<br /><br />
+
+<a href="https://github.com/cai-zhe?tab=repositories">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=flat-square&labelColor=0B1220" alt="Status: building" />
+</a>
+<a href="https://github.com/cai-zhe">
+  <img src="https://img.shields.io/badge/MODE-CURIOUS-A78BFA?style=flat-square&labelColor=0B1220" alt="Mode: curious" />
+</a>
+
+</div>
+
+<br />
+
+```text
+┌─[ cz@github ]────────────────────────────────────┐
+│                                                  │
+│  I enjoy clear ideas and reliable systems.       │
+│  Small interfaces, automation, and code that     │
+│  lasts.                                          │
+│                                                  │
+└──────────────────────────────────────── [ ready ]┘
+```
+
+## `/now`
+
+<samp>
+→ learning in public<br />
+→ simplifying complicated things<br />
+→ open to interesting problems
+</samp>
+
+## `/toolbox`
+
+<p>
+  <img src="https://img.shields.io/badge/code-000000?style=flat-square&logo=codeforces&logoColor=00E5FF" alt="Code" />
+  <img src="https://img.shields.io/badge/automation-000000?style=flat-square&logo=githubactions&logoColor=00E5FF" alt="Automation" />
+  <img src="https://img.shields.io/badge/systems-000000?style=flat-square&logo=linux&logoColor=00E5FF" alt="Systems" />
+  <img src="https://img.shields.io/badge/open_source-000000?style=flat-square&logo=opensourceinitiative&logoColor=A78BFA" alt="Open source" />
+</p>
+
+<details>
+<summary><samp>more signals</samp></summary>
+<br />
+
+<div align="center">
+  <a href="https://github.com/cai-zhe">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=cai-zhe&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=transparent&text_color=94A3B8&icon_color=00E5FF&ring_color=A78BFA" alt="cai-zhe's GitHub statistics" />
+  </a>
+  <a href="https://github.com/cai-zhe">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cai-zhe&layout=compact&hide_border=true&theme=transparent&text_color=94A3B8&title_color=00E5FF" alt="cai-zhe's most used languages" />
+  </a>
+</div>
+
+</details>
+
+## `/connect`
+
+<samp>
+github: <a href="https://github.com/cai-zhe">@cai-zhe</a><br />
+telegram: <a href="https://t.me/alfredcai">@alfredcai</a><br />
+wechat: <code>echo `base64 -d <<< V2VjaGF0IElkOiBhbGZyZWRjYWkxNw==`</code>
+</samp>
+
+<div align="center">
+  <samp>┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈</samp><br />
+  <samp>「 keep it clear · keep it moving 」</samp>
+</div>
